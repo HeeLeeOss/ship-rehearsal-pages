@@ -13,7 +13,7 @@
   "urgent": false,
   "deliverable": "dataset",
   "tokenEstimate": "small",
-  "status": "open",
+  "status": "delivered",
   "context": "A throwaway project used once to rehearse the pages-deploy recipe of the ship stage against a real GitHub Pages deploy. It has no outside beneficiary and no public deliverable.",
   "objective": "Add the one-page file site/index.html, so that milestone M1 has something to be read, covered and shipped as a Pages deploy.",
   "acceptanceCriteria": [
