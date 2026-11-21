@@ -1,0 +1,37 @@
+{
+  "id": "ship-rehearsal-pages-001",
+  "title": "Write site/index.html for rehearsal milestone M1",
+  "project": "ship-rehearsal-pages",
+  "type": "data",
+  "lane": "donated",
+  "priority": "low",
+  "domain": [
+    "software",
+    "open-source"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "dataset",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "A throwaway project used once to rehearse the pages-deploy recipe of the ship stage against a real GitHub Pages deploy. It has no outside beneficiary and no public deliverable.",
+  "objective": "Add the one-page file site/index.html, so that milestone M1 has something to be read, covered and shipped as a Pages deploy.",
+  "acceptanceCriteria": [
+    "AC-01: site/index.html is a page whose body holds the line \"rehearsal pages\""
+  ],
+  "output": "site/index.html",
+  "verifiedNeed": false,
+  "provenance": "generated",
+  "inputs": "none",
+  "outputLicense": "CC0-1.0",
+  "lifecycle": "ai-full",
+  "reviewPolicy": {
+    "vendors": 2,
+    "evaluators": [],
+    "humanCheckpoints": [
+      "spec",
+      "plan",
+      "ship"
+    ]
+  }
+}
